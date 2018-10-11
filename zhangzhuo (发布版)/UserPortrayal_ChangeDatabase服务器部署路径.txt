@@ -1,0 +1,2 @@
+代码路径：/home/appSys/RIOpenApi4UMC/UserGroupPortrait/zhangzhuo/UserPortrayal_ChangeDatabase
+文件路径：/home/appSys/RIOpenApi4UMC/userportrait
